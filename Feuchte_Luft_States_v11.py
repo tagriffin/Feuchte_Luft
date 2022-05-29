@@ -1,4 +1,4 @@
-# Berechnung von Stoffdaten für Systeme mit feuchter Luft
+# Berechnung von Stoffdaten für Systeme mit feuchter Luft, T. Griffin Mai 2022
 
 import numpy as np
 import CoolProp.CoolProp as CP
